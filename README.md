@@ -2,3 +2,4 @@
 
 A flutter based Simple App for the Liquid Galaxy KISS App Contest , which uses basic widgets and performs simple operations with the Liquid galaxy rig.
 
+It mainly performs operations like ShutDown, Relaunch, Reboot and Refreash.

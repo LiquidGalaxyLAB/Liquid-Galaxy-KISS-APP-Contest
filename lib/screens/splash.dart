@@ -8,6 +8,7 @@ class SplashScreen extends StatelessWidget {
     return AnimatedSplashScreen(
       splash: Container(child: Image.asset('assets/images/newlglogo.png')),
       nextScreen: HomePage(),
+      splashTransition: SplashTransition.scaleTransition,
     );
   }
 }

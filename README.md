@@ -1,3 +1,4 @@
-# liquid_galaxy_kiss_app
+# Liquid_galaxy_kiss_app
 
-A new Flutter project.
+A flutter based Simple App for the Liquid Galaxy KISS App Contest , which uses basic widgets and performs simple operations with the Liquid galaxy rig.
+
